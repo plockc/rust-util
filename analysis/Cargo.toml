@@ -1,0 +1,8 @@
+[package]
+name = "analysis"
+version = "0.1.0"
+authors = ["Chris Plock <chrisplo@cisco.com>"]
+
+[dependencies]
+yaml-rust = "*"
+clap = "2"

@@ -1,0 +1,8 @@
+[package]
+
+name = "myrand"
+version = "0.0.1"
+authors = [ "Chris Plock <plockc@gmail.com>" ]
+
+[dependencies]
+rand = "*"
